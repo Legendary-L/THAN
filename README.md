@@ -13,7 +13,19 @@ Codes, datasets for paper "TemporalHAN: Hierarchical Attention-Based Heterogeneo
 python ex_acm3025.py
 ```
 
-2 Select the corresponding data set and downstream task:
+2 Perform data set processing:
+```
+python THAN_aminer_Y1.py
+python THAN_aminer_Y2.py
+python THAN_aminer_Y3.py
+python THAN_aminer_build_real_new_Y1_mat.py
+python THAN_aminer_build_real_new_Y2_mat.py
+python THAN_aminer_build_real_new_Y3_mat.py
+```
+Other data sets are similar.
+
+
+3 Select the corresponding data set and downstream task:
 ```
 python THAN_aminer_ex_new_3yi.py
 python THAN_aminer_RP.py
