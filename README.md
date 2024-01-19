@@ -4,7 +4,7 @@ Codes, datasets for paper "TemporalHAN: Hierarchical Attention-Based Heterogeneo
 ![AppVeyor](https://img.shields.io/badge/python-3.6.13-blue)
 ![AppVeyor](https://img.shields.io/badge/numpy-1.19.5-red)
 ![AppVeyor](https://img.shields.io/badge/tensorflow-1.6.0-brightgreen)
-![AppVeyor](https://img.shields.io/badge/sklearn-0.0.post1-orange)
+![AppVeyor](https://img.shields.io/badge/keras-2.2.0-orange)
 
 ## Run Code
 
